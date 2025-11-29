@@ -1,0 +1,15 @@
+pandas>=1.4.0
+numpy>=1.22.0
+scipy>=1.7.0
+patsy>=0.5.0
+matplotlib>=3.5.0
+plotly>=5.6.0
+streamlit>=1.18.0
+prophet>=1.1.0
+cmdstanpy>=1.0.0
+statsmodels>=0.13.0
+torch>=1.11.0
+scikit-learn>=1.0.0
+# Optional / recommended runtime helpers
+python-dateutil>=2.8.0
+pytz>=2021.3
